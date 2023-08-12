@@ -1,0 +1,97 @@
+
+
+.topsection span{
+color: #070751;
+}
+
+.jumbotron{  
+    background-image: url("../images/rock_climbing2.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron h1{
+color: white;
+}
+
+.jumbotron p{
+    color: white;
+    }
+
+.nav-pills .nav-link.active{
+background-color: #E5173A;
+}
+
+.nav {
+    --bs-nav-link-color: #070751;
+}
+
+.dark_blue_bg{
+    background-color: #070751;
+}
+
+.light_gray_bg{
+    background-color: #E6E6E6;
+}
+
+.light_yellow_bg{
+    background-color: #FEB95F;
+}
+
+.white_bg{
+    background-color: white;;
+}
+
+.red_bg{
+    background-color: #E5173A;
+}
+
+.first_about h3{
+color: white;
+}
+
+.first_about p{
+    color: white;
+    }
+
+.icon_img{
+    width: 100px;
+    border-radius: 50%;
+    background-color: #070751;
+}
+
+.btn-primary{
+    --bs-btn-color: #070751;
+    --bs-btn-bg: white;
+    --bs-btn-border-color: #070751;
+    --bs-btn-hover-bg: #070751;
+    --bs-btn-hover-color: white;
+    --bs-btn-hover-border-color: white;
+}
+
+.service_card{
+    width: 300px;
+}
+
+.card{
+    --bs-card-bg: white;
+    --bs-card-border-color: white;
+}
+
+.card-body p{
+text-align:start;
+}
+
+.quantee h3{
+    color: white;
+}
+
+.quantee h4{
+    color: white;
+}
+
+.quantee p{
+    color: white;
+}
